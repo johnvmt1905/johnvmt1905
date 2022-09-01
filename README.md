@@ -35,7 +35,7 @@
 <div>
  <ul>
   <li>Atualmente sou estudante da <a href="https://www.betrybe.com" target="_blanc">Trybe</a>;</li>
-  <li>Comecei com Python, amante de backend e Computer science, agora estou no foco de aprender Typescript e Python;</li>
+  <li>Comecei com Python, amante de backend e Computer science, agora estou no foco de aprender Typescript;</li>
   <li>Amante de games e música 🎮 🎸;</li>
   <li>Caso queira falar comigo só me chamar no Instagram, no Linkedin ou no meu Email, estou ali sempre presente;
  </ul>
