@@ -5,7 +5,7 @@
 <div>
  <a href="https://github.com/johnvmt1905"></a>
  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=johnvmt1905&theme=dark&background=000000"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnvmt1905&layout=compact&theme=vision-friendly-dark"/>
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnvmt1905&layout=compact&theme=vision-friendly-dark"/> -->
 </div>
 
 <br>
