@@ -12,7 +12,7 @@
 
 <div>
  <h2>Hello!! Bem vindo ao meu git 😄</h2>
- <p>Sou de Guarulhos/SP, tenho 19 anos, atualmente sou Dev Junior, O poder de conseguir fazer (quase) tudo com a lógica, o estresse codando, e no final a solução de tudo, é o que faz eu ser apaixonado por essa área a cada dia, e sigo decolando pra cada dia melhorar 🚀</p>
+ <p>Sou de Guarulhos/SP, nascido em 2003, atualmente sou Analista de T.I JR, O poder de conseguir fazer (quase) tudo com a lógica, o estresse codando, e no final a solução de tudo, é o que faz eu ser apaixonado por essa área a cada dia, e sigo decolando pra cada dia melhorar 🚀</p>
 </div>
 
 <hr>
